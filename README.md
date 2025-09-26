@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hemang117
 - 👀 I’m interested in a variety of genres, sometimes im really interested to code and learn new skills, sometimes i make digital art, and sometimes i lay back and enjoy music. 
-- 🌱 I’m currently learning flutter to get my hands into app development. 
+- 🌱 I have a repo named ESKIMO which is my data science file, there's work from SPACEX!
 - 💞️ I’m looking to collaborate on all aspects whether they be completley new, or known. I like to take up challenges. 
-- 📫 How to reach me :- instagram: https://www.instagram.com/kisi_ko_btaoge_to_nhi/?next=%2F
 - CONTACT: hemangsaini46600@gmail.com 
